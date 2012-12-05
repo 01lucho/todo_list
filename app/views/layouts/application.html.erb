@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TodoList</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+  <%= yield %>
+  <textarea rows="6" cols="30">
+    Copy this script in your web site
+  
+    <iframe src="http://todo.com:3000"></iframe>
+  </textarea>
+
+</body>
+</html>

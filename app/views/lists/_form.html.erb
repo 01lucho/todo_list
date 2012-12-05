@@ -1,0 +1,5 @@
+<%= form_for @list, remote: true do |f| %>
+    <%= f.hidden_field :check, :value => false %>
+    <%= f.text_field :work %>
+    <%= f.submit "Crear" %>
+<% end %>

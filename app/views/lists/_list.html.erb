@@ -1,0 +1,6 @@
+<%= form_for list, remote: true do |f| %>
+  <%= f.check_box :check %>
+  <%= f.submit "Update" %>
+  <%= f.label :check, list.work %>
+  <%= link_to "(remove)", list, method: :delete, remote: true %>
+<% end %>

@@ -1,0 +1,4 @@
+$('#new_list').remove();
+$('#new_link').show();
+$('#incomplete_lists').append('<%= j render(@list) %>');
+$('#edit_list_<%= @list.id %>').submitOnCheck();

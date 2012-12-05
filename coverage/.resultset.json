@@ -1,0 +1,69 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/kombea/Documents/Projects/todo_list/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/kombea/Documents/Projects/todo_list/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/kombea/Documents/Projects/todo_list/app/helpers/lists_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/kombea/Documents/Projects/todo_list/app/controllers/lists_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/kombea/Documents/Projects/todo_list/app/models/list.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1354724866
+  }
+}
